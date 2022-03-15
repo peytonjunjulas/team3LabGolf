@@ -23,7 +23,7 @@ $(document).ready(function(){
     "peytonjunjulas Lab Echo",
     "cgooch99 Lab Echo",
     "gavinraney Lab Echo",
-    "koobyingram11 Lab Echo",
+    "kobyingram11 Lab Echo",
   ];
 
   let eLen = echoLinks.length;
@@ -92,7 +92,7 @@ $(document).ready(function(){
     "peytonjunjulas Lab Delta",
     "cgooch99 Lab Delta",
     "gavinraney Lab Delta",
-    "kobuyingram11 Lab Delta"
+    "kobyingram11 Lab Delta"
   ];
 
   let dLen = deltaLinks.length;
