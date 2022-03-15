@@ -11,6 +11,7 @@ background-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/s
   font-size: 30px;
 }
 
+/* card styling stuff begin */
 * {
   box-sizing: border-box;
 }
@@ -49,9 +50,10 @@ body {
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 16px;
-  text-align: center;
+  /*text-align: center; */
   background-color: #f1f1f1;
 }
+/* card styling stuff end */
 
 .topnav {
   overflow: hidden;
@@ -106,11 +108,10 @@ body {
 .footer{
   padding: 20px;
   text-align: center;
-  background: rgb(64, 152, 224);
+  background: black;
   color: white;
   font-size: 20px;
   position: fixed;
   bottom: 0;
   width: 100%;
 }
-
